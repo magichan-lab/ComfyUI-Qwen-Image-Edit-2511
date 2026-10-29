@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-qwen-image-edit-2511"
+version = "0.1.0"
+description = "Qwen Image Edit 2511 image-to-image workflow and prompt utility node for ComfyUI"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/magichan-lab/ComfyUI-Qwen-Image-Edit-2511"
+
+[tool.comfy]
+PublisherId = "YOUR_PUBLISHER_ID"
+DisplayName = "Qwen Image Edit 2511"
